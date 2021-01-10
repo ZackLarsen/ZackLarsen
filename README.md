@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on causal inference to determine clinical impact of healthcare management programs and risk models to help clinicians prioritize outreach to maximize the benefit of their care delivery.
+- 🌱 I’m currently learning containerization with Docker and Kubernetes/Kubeflow, cloud computing with Amazon Web Services and Microsoft Azure, and deep learning applications with Tensorflow and Pytorch.
+- 👯 I’m looking to collaborate on medical informatics and applying causal diagrams to improve the robustness of machine learning models.
+- 🤔 I’m looking for help with finding the best resources to learn machine learning engineering best practices.
+
+
 <!--
 **ZackLarsen/ZackLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

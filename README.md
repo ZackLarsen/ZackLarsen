@@ -9,6 +9,8 @@
 ### My Repos:
 - [Matching](https://github.com/ZackLarsen/Matching)
 - [Kaggle competitions](https://github.com/ZackLarsen/kaggle)
+- [Hidden Markov Models](https://github.com/ZackLarsen/hmm
+- [HMM Wordpress-style Blog](https://github.com/ZackLarsen/hmm)
 
 
 <!--

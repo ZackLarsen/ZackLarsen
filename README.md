@@ -7,8 +7,8 @@
 
 
 ### My Repos:
-[Matching](https://github.com/ZackLarsen/Matching)
-[Kaggle competitions](https://github.com/ZackLarsen/kaggle)
+- [Matching](https://github.com/ZackLarsen/Matching)
+- [Kaggle competitions](https://github.com/ZackLarsen/kaggle)
 
 
 <!--

@@ -11,7 +11,8 @@
 - [Kaggle competitions](https://github.com/ZackLarsen/kaggle)
 - [Hidden Markov Models](https://github.com/ZackLarsen/hmm)
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)
-
+- [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
+- [Flex Dashboards with R](https://zacklarsen.github.io/flex/)
 
 <!--
 **ZackLarsen/ZackLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

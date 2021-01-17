@@ -14,6 +14,7 @@
 - [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
 - [Flex Dashboards with R](https://zacklarsen.github.io/flex/)
 - [Survival Analysis](https://github.com/ZackLarsen/survival)
+- [EDA with R](https://github.com/ZackLarsen/EDA_R)
 
 <!--
 **ZackLarsen/ZackLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

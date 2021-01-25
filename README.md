@@ -6,6 +6,10 @@
 - 🤔 I’m looking for help with finding the best resources to learn machine learning engineering best practices and MLops. I'm also looking for ways to document complex projects and work effectively with team members in a totally remote work setting.
 
 
+### My github pages sites:
+- [Divvy](https://zacklarsen.github.io/flex_master/Divvy_dashboard.html)
+
+
 ### My Repos:
 - [Observational Studies](https://github.com/ZackLarsen/Observational_studies)
 - [Kaggle competitions](https://github.com/ZackLarsen/kaggle)

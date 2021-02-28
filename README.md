@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on causal inference to determine clinical impact of healthcare management programs and risk models to help clinicians prioritize outreach to maximize the benefit of their care delivery.
+- 🔭 I’m currently working on production ML systems in python to support clinical outreach teams.
 - 🌱 I’m currently learning containerization with Docker and Kubernetes/Kubeflow, cloud computing with Amazon Web Services and Microsoft Azure, and deep learning applications with Tensorflow and Pytorch.
-- 👯 I’m looking to collaborate on medical informatics and applying causal diagrams to improve the robustness of machine learning models.
-- 🤔 I’m looking for help with finding the best resources to learn machine learning engineering best practices and MLops. I'm also looking for ways to document complex projects and work effectively with team members in a totally remote work setting.
+- 👯 I’m looking to collaborate on ways to incorporate ideas from causal inference to create more transparent and robust machine learning models and systems.
 
 
 ### My github pages sites:

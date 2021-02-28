@@ -16,6 +16,7 @@
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)
 - [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
 - [Flex Dashboards with R](https://zacklarsen.github.io/flex/)
+- [TidyTuesdays Dataviz](https://github.com/ZackLarsen/tidy_tuesdays)
 - [Survival Analysis](https://github.com/ZackLarsen/survival)
 - [EDA with R](https://github.com/ZackLarsen/EDA_R)
 

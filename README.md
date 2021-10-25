@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on production ML systems in python to support clinical outreach teams.
+- 🔭 I’m currently working on production unsupervised and supervised ML systems in python to support clinical outreach teams.
 - 🌱 I’m currently learning containerization with Docker and Kubernetes/Kubeflow, cloud computing with Amazon Web Services and Microsoft Azure, and deep learning applications with Tensorflow and Pytorch.
 - 👯 I’m looking to collaborate on ways to incorporate ideas from causal inference to create more transparent and robust machine learning models and systems.
 

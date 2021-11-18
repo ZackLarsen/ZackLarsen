@@ -12,7 +12,8 @@
 ### My Repos:
 - [Observational Studies](https://github.com/ZackLarsen/Observational_studies)
 - [Clinical Risk Stratification](https://github.com/ZackLarsen/risk-stratification)
-- [Kaggle competitions](https://github.com/ZackLarsen/kaggle)
+- [Current Kaggle competitions](https://github.com/ZackLarsen/kaggle-wids-datathon-2020)
+- [Past Kaggle competitions](https://github.com/ZackLarsen/kaggle)
 - [Hidden Markov Models](https://github.com/ZackLarsen/hmm)
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)
 - [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
@@ -20,18 +21,3 @@
 - [TidyTuesdays Dataviz](https://github.com/ZackLarsen/tidy_tuesdays)
 - [Survival Analysis](https://github.com/ZackLarsen/survival)
 - [EDA with R](https://github.com/ZackLarsen/EDA_R)
-
-<!--
-**ZackLarsen/ZackLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on production unsupervised and supervised ML systems in python to support clinical outreach teams.
-- 🌱 I’m currently learning Microsoft AzureML and Azure Data Lake, and deep learning applications with Pytorch.
+- 🔭 I’m currently working on production unsupervised and supervised ML systems in python and Jenkins to support clinical outreach teams.
+- 🌱 I’m currently learning Microsoft AzureML and Azure Data Lake, and deep learning applications with Pytorch and fastai.
 - 👯 I’m looking to collaborate on ways to incorporate ideas from causal inference to create more transparent, interpretable and robust machine learning models and systems.
 
 

@@ -11,13 +11,12 @@
 
 ### My Repos:
 - [Observational Studies](https://github.com/ZackLarsen/Observational_studies)
+- [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
+- [Flex Dashboards](https://github.com/ZackLarsen/flex_master)
 - [Clinical Risk Stratification](https://github.com/ZackLarsen/risk-stratification)
 - [Current Kaggle competitions](https://github.com/ZackLarsen/kaggle-wids-datathon-2020)
 - [Past Kaggle competitions](https://github.com/ZackLarsen/kaggle)
 - [Hidden Markov Models](https://github.com/ZackLarsen/hmm)
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)
-- [Divvy Bikeshare](https://zacklarsen.github.io/divvy/)
-- [Flex Dashboards with R](https://zacklarsen.github.io/flex/)
 - [TidyTuesdays Dataviz](https://github.com/ZackLarsen/tidy_tuesdays)
 - [Survival Analysis](https://github.com/ZackLarsen/survival)
-- [EDA with R](https://github.com/ZackLarsen/EDA_R)

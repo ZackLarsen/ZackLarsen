@@ -15,8 +15,10 @@
 - [Divvy Bikeshare](https://github.com/ZackLarsen/divvy)
 - [Flex Dashboards](https://github.com/ZackLarsen/flex_master)
 - [Clinical Risk Stratification](https://github.com/ZackLarsen/risk-stratification)
+- [Survival Analysis](https://github.com/ZackLarsen/survival)
 - [Current Kaggle competitions](https://github.com/ZackLarsen/kaggle-wids-datathon-2020)
 - [Past Kaggle competitions](https://github.com/ZackLarsen/kaggle)
 - [Hidden Markov Models](https://github.com/ZackLarsen/hmm)
 - [TidyTuesdays Dataviz](https://github.com/ZackLarsen/tidy_tuesdays)
-- [Survival Analysis](https://github.com/ZackLarsen/survival)
+- [R Shiny Examples](https://github.com/ZackLarsen/shiny)
+

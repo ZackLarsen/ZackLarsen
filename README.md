@@ -8,6 +8,7 @@
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)
 
 ### My Repos:
+- [dbt Synthea](https://github.com/ZackLarsen/dbt-synthea)
 - [Observational Studies](https://github.com/ZackLarsen/Observational_studies)
 - [Divvy Bikeshare](https://github.com/ZackLarsen/divvy)
 - [Flex Dashboards](https://github.com/ZackLarsen/flex_master)

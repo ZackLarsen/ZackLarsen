@@ -3,6 +3,7 @@
 - 🔭 I’m a data scientist interested in clinical predictive models, clinical decision support tools, causal inference, MLOps tooling & machine learning engineering, deep learning, developer productivity tools and approaches, optimization problems, and interactive data visualization.
 
 ### My github pages sites:
+- [Altair Interactive Data Visualizations](https://zacklarsen.github.io/quarto/)
 - [Divvy Flexdashboard](https://zacklarsen.github.io/flex_master/Divvy_dashboard.html)
 - [Divvy Pages Site](https://zacklarsen.github.io/divvy/)
 - [HMM Wordpress-style Blog](https://zacklarsen.github.io/hmm/)

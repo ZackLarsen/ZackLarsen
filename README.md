@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a data scientist interested in clinical predictive models, clinical decision support tools, causal inference, MLOps tooling & machine learning engineering, deep learning, developer productivity tools and approaches, optimization problems, and interactive data visualization.
+- 🔭 I’m a data scientist interested in clinical predictive models, clinical decision support tools, causal inference, MLOps tooling & machine learning engineering, deep learning, developer productivity tools and approaches, optimization problems, interactive data visualization, analytics and data engineering concepts, and product management.
 
 ### My github pages sites:
 - [Altair Interactive Data Visualizations](https://zacklarsen.github.io/quarto/)

@@ -7,4 +7,5 @@
 - [Chicago Divvy Bike Interactive Dashboard](https://zacklarsen.github.io/flex_master/Divvy_dashboard.html)
 
 ### My Repos:
+- [Lasso regression](https://github.com/ZackLarsen/lasso-regression)
 - [dbt project with Synthea synthetic Healthcare data](https://github.com/ZackLarsen/dbt-synthea)

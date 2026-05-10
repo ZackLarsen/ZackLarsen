@@ -4,7 +4,7 @@
 
 ### My github pages sites:
 - [Marimo Interactive Dataflow Notebook](https://zacklarsen.github.io/marimo/) NOTE: may take a few seconds for page to load.
-- [Divvy Flexdashboard](https://zacklarsen.github.io/flex_master/Divvy_dashboard.html)
+- [Chicago Divvy Bike Interactive Dashboard](https://zacklarsen.github.io/flex_master/Divvy_dashboard.html)
 
 ### My Repos:
-- [dbt Synthea](https://github.com/ZackLarsen/dbt-synthea)
+- [dbt project with Synthea synthetic Healthcare data](https://github.com/ZackLarsen/dbt-synthea)
